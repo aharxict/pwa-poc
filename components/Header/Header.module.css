@@ -1,0 +1,16 @@
+.header ul {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  list-style-type: none;
+  padding: 0;
+}
+
+.header ul li {
+  padding: 5px 10px;
+  margin: 5px;
+  border: 1px solid black;
+  width: 100%;
+  text-align: center;
+}
